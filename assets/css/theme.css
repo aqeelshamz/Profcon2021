@@ -17689,7 +17689,7 @@ body.loaded > div.loader {
 }
 
 .bg-cover {
-  background-size: cover;
+  background-size: contain;
 }
 
 .bg-contain {
